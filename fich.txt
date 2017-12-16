@@ -1,0 +1,3 @@
+coumba;admin;3Fg7oY
+fatou;admin;b7aNsQ
+malick;user;10zWpC
